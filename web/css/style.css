@@ -506,7 +506,7 @@ p.lead {
 }
 
 .social-icons ul li span.icons {
-	background: url(/assets/images/i1.png)no-repeat #2E4A84 center;
+	background: url(../images/i1.png)no-repeat #2E4A84 center;
 	width: 40px;
 	height: 40px;
 	display: inline-block;
@@ -521,7 +521,7 @@ p.lead {
 }
 
 .social-icons ul li.twt span.icons {
-	background: url(/assets/images/i2.png)no-repeat #4D9CD8 center;
+	background: url(../images/i2.png)no-repeat #4D9CD8 center;
 }
 
 .social-icons ul li.ggp{
@@ -529,7 +529,7 @@ p.lead {
 }
 
 .social-icons ul li.ggp span.icons {
-	background: url(/assets/images/i3.png)no-repeat #D64639 center;
+	background: url(../images/i3.png)no-repeat #D64639 center;
 }
 
 .social-icons ul li a:hover span.icons {
@@ -1133,3 +1133,9 @@ p.lead {
 		line-height: 20px;
 	}
 }
+
+
+
+
+
+/*--- Responsive Code ---*/
